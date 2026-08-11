@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sachin-git01/Leetocde-java/tree/master/3898-find-the-degree-of-each-vertex) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sachin-git01/Leetocde-java/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sachin-git01/Leetocde-java/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
