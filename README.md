@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sachin-git01/Leetocde-java/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/sachin-git01/Leetocde-java/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/sachin-git01/Leetocde-java/tree/master/0682-baseball-game) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sachin-git01/Leetocde-java/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Graph Theory
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachin-git01/Leetocde-java/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/sachin-git01/Leetocde-java/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
