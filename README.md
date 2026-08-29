@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/sachin-git01/Leetocde-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sachin-git01/Leetocde-java/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sachin-git01/Leetocde-java/tree/master/0682-baseball-game) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sachin-git01/Leetocde-java/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/sachin-git01/Leetocde-java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/sachin-git01/Leetocde-java/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachin-git01/Leetocde-java/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/sachin-git01/Leetocde-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sachin-git01/Leetocde-java/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sachin-git01/Leetocde-java/tree/master/0682-baseball-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sachin-git01/Leetocde-java/tree/master/2487-remove-nodes-from-linked-list) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/sachin-git01/Leetocde-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sachin-git01/Leetocde-java/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sachin-git01/Leetocde-java/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
