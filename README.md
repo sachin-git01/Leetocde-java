@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sachin-git01/Leetocde-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/sachin-git01/Leetocde-java/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sachin-git01/Leetocde-java/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/sachin-git01/Leetocde-java/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sachin-git01/Leetocde-java/tree/master/0056-merge-intervals) |
 | [0496-next-greater-element-i](https://github.com/sachin-git01/Leetocde-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sachin-git01/Leetocde-java/tree/master/0503-next-greater-element-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sachin-git01/Leetocde-java/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sachin-git01/Leetocde-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/sachin-git01/Leetocde-java/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachin-git01/Leetocde-java/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/sachin-git01/Leetocde-java/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
 | ------- |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/sachin-git01/Leetocde-java/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/sachin-git01/Leetocde-java/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sachin-git01/Leetocde-java/tree/master/0056-merge-intervals) |
 ## Binary Search
 |  |
