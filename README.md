@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/sachin-git01/Leetocde-java/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/sachin-git01/Leetocde-java/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/sachin-git01/Leetocde-java/tree/master/0682-baseball-game) |
 ## Number Theory
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sachin-git01/Leetocde-java/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sachin-git01/Leetocde-java/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sachin-git01/Leetocde-java/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/sachin-git01/Leetocde-java/tree/master/0059-spiral-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/sachin-git01/Leetocde-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sachin-git01/Leetocde-java/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sachin-git01/Leetocde-java/tree/master/0682-baseball-game) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/sachin-git01/Leetocde-java/tree/master/0059-spiral-matrix-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sachin-git01/Leetocde-java/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Linked List
 |  |
