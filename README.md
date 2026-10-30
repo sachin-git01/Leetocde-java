@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sachin-git01/Leetocde-java/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sachin-git01/Leetocde-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/sachin-git01/Leetocde-java/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/sachin-git01/Leetocde-java/tree/master/0046-permutations) |
 | [0496-next-greater-element-i](https://github.com/sachin-git01/Leetocde-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sachin-git01/Leetocde-java/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sachin-git01/Leetocde-java/tree/master/0682-baseball-game) |
@@ -96,4 +97,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sachin-git01/Leetocde-java/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/sachin-git01/Leetocde-java/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
