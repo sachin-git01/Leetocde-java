@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/sachin-git01/Leetocde-java/tree/master/0016-3sum-closest) |
 | [0496-next-greater-element-i](https://github.com/sachin-git01/Leetocde-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sachin-git01/Leetocde-java/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sachin-git01/Leetocde-java/tree/master/0682-baseball-game) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/sachin-git01/Leetocde-java/tree/master/0016-3sum-closest) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sachin-git01/Leetocde-java/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sachin-git01/Leetocde-java/tree/master/0155-min-stack) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/sachin-git01/Leetocde-java/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
