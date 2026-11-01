@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachin-git01/Leetocde-java/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/sachin-git01/Leetocde-java/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/sachin-git01/Leetocde-java/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sachin-git01/Leetocde-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sachin-git01/Leetocde-java/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sachin-git01/Leetocde-java/tree/master/0682-baseball-game) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sachin-git01/Leetocde-java/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/sachin-git01/Leetocde-java/tree/master/0232-implement-queue-using-stacks) |
 ## Sorting
 |  |
 | ------- |
@@ -121,5 +123,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sachin-git01/Leetocde-java/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin-git01/Leetocde-java/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
