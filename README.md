@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/sachin-git01/Leetocde-java/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sachin-git01/Leetocde-java/tree/master/0258-add-digits) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sachin-git01/Leetocde-java/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/sachin-git01/Leetocde-java/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/sachin-git01/Leetocde-java/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/sachin-git01/Leetocde-java/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sachin-git01/Leetocde-java/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sachin-git01/Leetocde-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sachin-git01/Leetocde-java/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sachin-git01/Leetocde-java/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sachin-git01/Leetocde-java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sachin-git01/Leetocde-java/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Graph Theory
 |  |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sachin-git01/Leetocde-java/tree/master/0206-reverse-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sachin-git01/Leetocde-java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sachin-git01/Leetocde-java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
@@ -114,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sachin-git01/Leetocde-java/tree/master/0056-merge-intervals) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sachin-git01/Leetocde-java/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
