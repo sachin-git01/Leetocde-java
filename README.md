@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sachin-git01/Leetocde-java/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/sachin-git01/Leetocde-java/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/sachin-git01/Leetocde-java/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sachin-git01/Leetocde-java/tree/master/0033-search-in-rotated-sorted-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sachin-git01/Leetocde-java/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/sachin-git01/Leetocde-java/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sachin-git01/Leetocde-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/sachin-git01/Leetocde-java/tree/master/0496-next-greater-element-i) |
