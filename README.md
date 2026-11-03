@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sachin-git01/Leetocde-java/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sachin-git01/Leetocde-java/tree/master/0258-add-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin-git01/Leetocde-java/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sachin-git01/Leetocde-java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sachin-git01/Leetocde-java/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sachin-git01/Leetocde-java/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin-git01/Leetocde-java/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sachin-git01/Leetocde-java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sachin-git01/Leetocde-java/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Graph Theory
 |  |
